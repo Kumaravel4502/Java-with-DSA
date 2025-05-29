@@ -1,0 +1,42 @@
+the road map which I followed
+1. java literals like basic things (datatypes, keywords etc..)
+2. Control statements
+- Conditional statement(if, else, else if)
+- Looping statement( for, while, do while)
+- breaking statement( break , continue, return)
+3. Practice basic interview programs with this like (Armstrong number , prime number , patterns *don't go with string now)
+with this part 1 of java is completed.
+part 2
+learn about class and objects.
+Start with oops.
+encapsulation, java bean, 
+inheritance - is a relationship , has a relationship
+method overloading
+abstraction
+Constructor
+polymorphism
+method overriding. * part 2 is over
+part 3
+Object class and its methods.
+String and its methods, 
+Array
+Exception Handling , Thread.
+Collections - List, Map, Queue.
+now try to learn sorting algorithms and String programs for interview while learning this try  to have some theory knowledge like how it is working and it will be useful for technical round.
+
+
+
+
+
+
+
+
+1.https://www.tutorialspoint.com/dsa_using_java/dsa_using_java_environment.htm
+
+
+
+2. https://www.geeksforgeeks.org/java/
+
+
+3. https://hyperskill.org/courses/8-introduction-to-java
+
