@@ -19,8 +19,8 @@ public class CountOccurence {
                 count++;
             }
 
-            System.out.println("The number of 3's in " + n + " is: " + count); // s.close();
         }
+        System.out.println("The number of 3's in " + n + " is: " + count); // s.close();
 
     }
 }
