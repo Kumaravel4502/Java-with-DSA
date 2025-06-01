@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "Java-with-DSA_f77629c6"
+        },
+        {
+            "type": "java",
             "name": "Series",
             "request": "launch",
             "mainClass": "Series",
